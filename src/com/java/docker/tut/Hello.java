@@ -6,7 +6,7 @@ package com.java.docker.tut;
 /**
  * 
  */
-public class Hello {
+class Hello {
 
 	/**
 	 * 
